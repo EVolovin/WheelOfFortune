@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Buttons
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: f494e91355a0d164e84a41265cf51242, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - 1581a5411a2155345ba9a954e06fd83b: 21300000
+    - 5de81a250e65ad54baf5996680d1bae0: 21300000
+    - 93a0035bcde241540ba8df5b2618d8f0: 21300000
+    - 4f95d67f6aa0d0e4088f25f15719d5aa: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 1581a5411a2155345ba9a954e06fd83b, type: 3}
+  - {fileID: 21300000, guid: 5de81a250e65ad54baf5996680d1bae0, type: 3}
+  - {fileID: 21300000, guid: 93a0035bcde241540ba8df5b2618d8f0, type: 3}
+  - {fileID: 21300000, guid: 4f95d67f6aa0d0e4088f25f15719d5aa, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - btn_ok
+  - btn_refresh
+  - btn_arrow
+  - btn_completed
+  m_RenderDataMap: {}
+  m_Tag: Buttons
+  m_IsVariant: 0
